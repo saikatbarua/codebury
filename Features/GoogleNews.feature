@@ -6,3 +6,4 @@ Feature: Google News
     And Navigates to the app "https://www.news.google.com"
 		When user clicks on a news link from cnn
 		Then user is on cnn webpage
+		#panda panda panda
