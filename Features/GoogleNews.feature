@@ -7,4 +7,5 @@ Feature: Google News
 		When user clicks on a news link from cnn
 		Then user is on cnn webpage
 		#panda panda panda
-		#Afsheen was here
+		#Afsheen was here	
+		#So was Saikat
